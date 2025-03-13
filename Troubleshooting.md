@@ -2,6 +2,20 @@
 
 ---
 
+> Package 'package_1' not found
+
+**Solution:** You forgot to 
+
+```
+cd cd ~/Projects/ros2_workspace
+colcon build
+source install/setup.bash
+
+---
+
+
+---
+
 `colcon build` output:
 
 > Summary: 0 packages finished [0.97s]

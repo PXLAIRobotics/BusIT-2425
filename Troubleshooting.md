@@ -7,9 +7,10 @@
 **Solution:** You forgot to 
 
 ```
-cd cd ~/Projects/ros2_workspace
+cd ~/Projects/ros2_workspace
 colcon build
 source install/setup.bash
+```
 
 ---
 

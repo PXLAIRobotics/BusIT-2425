@@ -48,6 +48,7 @@ ros2 run ros_gz_bridge parameter_bridge /cmd_vel@geometry_msgs/msg/Twist@gz.msgs
 
 3. Create a Teleop Node that allows you to control the Prius using keyboard inputs.
 
+4. Go nuts
 
 
 ## Day 2: Computer Vision

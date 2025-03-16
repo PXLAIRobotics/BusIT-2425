@@ -100,3 +100,9 @@ Command '['/usr/bin/python3', '-c', 'import sys;from contextlib import suppress;
 **Solution:** You forgot a comma in your `setup.py` file
 
 ---
+
+## Additional resources
+
+* ROS2 (Jazzy): https://docs.ros.org/en/jazzy/Tutorials.html
+* Gazebo: https://gazebosim.org/docs/harmonic/tutorials/
+* Gazebo x ROS2: https://github.com/gazebosim/ros_gz/tree/ros2/ros_gz_bridge

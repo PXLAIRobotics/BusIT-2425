@@ -113,9 +113,19 @@ Create a .wslconfig file in this location:
 
 Open the created .wslconfig file (with Notepad or VSCode), change your preferred memory usage for the container and number of logical processors:
 
+> [!NOTE]  
+> The default settings for WSL are:
+>
+> - Memory: 50% of total memory on Windows.
+> - Processors: The same number of logical processors on Windows.
+>
+> So to increase performance you want to set this to the maximum number of logical processors and more than 50% of the memory on your host device, otherwise the container will get less resources than before.
+>
+> [Source (and more settings)](https://learn.microsoft.com/en-us/windows/wsl/wsl-config#main-wsl-settings)
+
 ```text
 [wsl2]
-memory=20GB
+memory=16GB
 processors=8
 ```
 

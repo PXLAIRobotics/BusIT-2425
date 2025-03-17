@@ -84,9 +84,7 @@ ros2 pkg create --build-type ament_python vision_controller --dependencies rclpy
 
 5. Add the `process_front_camera.py` script
 
-6. Drive autonomously along the racetrack.
-
-Use the Example OpenCV for inspiration.
+6. Drive autonomously along the racetrack. Use the Example OpenCV code for inspiration.
 
 
 ## Day 3-5: Workshop & Project

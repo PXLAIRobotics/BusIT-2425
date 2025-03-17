@@ -43,7 +43,7 @@ gz sim
 
 ...and start the Prius on Sonoma Raceway world.
 
-2. Create a ROS bridge for the `cmd_vel` topic
+2. Create a ROS bridge for the `/cmd_vel` topic
 
 ```
 ros2 run ros_gz_bridge parameter_bridge /cmd_vel@geometry_msgs/msg/Twist@gz.msgs.Twist
@@ -57,6 +57,34 @@ ros2 run ros_gz_bridge parameter_bridge /cmd_vel@geometry_msgs/msg/Twist@gz.msgs
 ## Day 2: Computer Vision
 
 
+### Exercises
+
+1. Start the gazebo sim
+
+```
+gz sim
+```
+
+...and start the Prius on Sonoma Raceway world.
+
+2. Create a ROS bridge for the `/front_camera` topic
+
+```
+ros2 run ros_gz_bridge parameter_bridge /front_camera@sensor_msgs/msg/Image@gz.msgs.Image
+```
+
+3. Create a vision_controller package:
+
+```
+cd ~/Projects/ros2_workspace/src
+ros2 pkg create --build-type ament_python vision_controller --dependencies rclpy image_transport cv_bridge sensor_msgs std_msgs opencv2
+```
+
+5. Add the `process_front_camera.py` script
+
+6. Drive autonomously along the racetrack.
+
+Use the Example OpenCV for inspiration.
 
 
 ## Day 3-5: Workshop & Project

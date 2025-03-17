@@ -82,7 +82,7 @@ cd ~/Projects/ros2_workspace/src
 ros2 pkg create --build-type ament_python vision_controller --dependencies rclpy image_transport cv_bridge sensor_msgs std_msgs opencv2
 ```
 
-5. Add the `process_front_camera.py` script
+5. Add the `src/process_front_camera.py` script
 
 6. Drive autonomously along the racetrack. Use the Example OpenCV code for inspiration.
 

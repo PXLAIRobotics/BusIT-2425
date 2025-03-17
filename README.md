@@ -102,6 +102,45 @@ Command '['/usr/bin/python3', '-c', 'import sys;from contextlib import suppress;
 
 ---
 
+## Increasing Docker container performance (on Windows)
+
+### 1.
+
+Create a .wslconfig file in this location:
+`C:\Users\<UserName>\.wslconfig`
+
+### 2.
+
+Open the created .wslconfig file (with Notepad or VSCode), change your preferred memory usage for the container and number of logical processors:
+
+```text
+[wsl2]
+memory=20GB
+processors=8
+```
+
+### 3.
+
+Shutdown WSL in a terminal window:
+
+```
+wsl --shutdown
+```
+
+### 4.
+
+Restart Docker desktop.
+
+### 5.
+
+Start the container again.
+
+### 6.
+
+You can check if it works by entering `docker stats` in a terminal window.
+
+---
+
 ## Additional resources
 
 * ROS2 (Jazzy): https://docs.ros.org/en/jazzy/Tutorials.html

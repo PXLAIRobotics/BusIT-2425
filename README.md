@@ -15,6 +15,9 @@
 
 Repository: https://github.com/PXLAIRobotics/ROS2JazzyDocker
 
+## Discord server
+
+https://discord.gg/Nnt9ps3h
 
 ---
 

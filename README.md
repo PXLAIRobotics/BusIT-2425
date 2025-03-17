@@ -56,6 +56,8 @@ ros2 run ros_gz_bridge parameter_bridge /cmd_vel@geometry_msgs/msg/Twist@gz.msgs
 
 ## Day 2: Computer Vision
 
+### OpenCV
+1. [01 - An introduction to OpenCV](https://docs.google.com/presentation/d/1WvdhUHXD4450N8q-2Ki4GRC-GsHrZoYAnINF3KHq4qE/edit?usp=sharing)
 
 ### Exercises
 

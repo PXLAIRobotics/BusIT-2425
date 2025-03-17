@@ -82,7 +82,7 @@ source install/setup.bash
 
 `ros2 run package_1 subscriber` output: 
 
-> dingen
+> No executable found
 
 
 **Solution:** You forgot to add subscriber to `setup.py`.

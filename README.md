@@ -126,7 +126,7 @@ source install/setup.bash
 
 ## Day 4-5: Workshop & Project
 
-
+Project presentation: https://docs.google.com/presentation/d/1IvJ7ySwOn4rOBmr-oBQ5eRKsJNSuDHAO_sBHsyaPHCQ/edit?usp=sharing
 
 ---
 

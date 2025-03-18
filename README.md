@@ -90,6 +90,11 @@ ros2 pkg create --build-type ament_python vision_controller --dependencies rclpy
 
 ## Day 3: LiDAR
 
+### OpenCV
+
+
+### Exercises
+
 
 ## Day 4-5: Workshop & Project
 

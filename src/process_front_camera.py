@@ -38,8 +38,6 @@ class ImageProcessor(threading.Thread):
         try:
             # ================================
             # Replace this with any heavy OpenCV processing
-            # processed_image = cv2.cvtColor(cv_image, cv2.COLOR_BGR2GRAY)
-            # processed_image = cv2.Canny(processed_image, 100, 200)
             processed_image = cv_image
             # =================================
             return processed_image

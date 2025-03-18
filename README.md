@@ -67,7 +67,7 @@ colcon build
 source install/setup.bash
 ```
 
-6. Go nuts
+5. Go nuts
 
 
 ## Day 2: Computer Vision
@@ -100,7 +100,20 @@ ros2 pkg create --build-type ament_python vision_controller --dependencies rclpy
 
 5. Add the `src/process_front_camera.py` script
 
-6. Drive autonomously along the racetrack. Use the Example OpenCV code for inspiration.
+6. Always remember to rebuild and source each time you change anything:
+
+```
+clean_and_rebuild_ros2_workspace
+```
+
+If that does not work, you can do it manually:
+
+```
+colcon build
+source install/setup.bash
+```
+
+7. Drive autonomously along the racetrack. Use the Example OpenCV code for inspiration.
 
 
 ## Day 3: LiDAR

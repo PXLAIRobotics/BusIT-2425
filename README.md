@@ -130,7 +130,14 @@ Project presentation: https://docs.google.com/presentation/d/1IvJ7ySwOn4rOBmr-oB
 
 It's recommended to use a Miro board for your business idea (https://miro.com/) to collaborate easily.
 
+### Additional info
+How to get an overview of all gazebo topics:
 
+```
+gz topic -l
+```
+
+Then you can use a ROS-Gazebo bridge for whatever topic you need.
 
 ---
 

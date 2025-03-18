@@ -11,6 +11,8 @@
 
 **Planning:** [link](https://docs.google.com/spreadsheets/d/15HdELTIhPZTT3MXOrwgG9T98d1KogXK6/edit?usp=sharing&ouid=113903584216099729669&rtpof=true&sd=true)
 
+## Teams
+[Link](https://docs.google.com/spreadsheets/d/1dHRB9edoT9GNURKBkNpozU5cAfWZmviYu-xNyaK5ZBU/edit?usp=sharing)
 
 ## Development environment
 

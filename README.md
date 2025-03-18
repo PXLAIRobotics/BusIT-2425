@@ -54,7 +54,20 @@ ros2 run ros_gz_bridge parameter_bridge /cmd_vel@geometry_msgs/msg/Twist@gz.msgs
 
 3. Create a Teleop Node that allows you to control the Prius using keyboard inputs.
 
-4. Go nuts
+4. Always remember to rebuild and source each time you change anything:
+
+```
+clean_and_rebuild_ros2_workspace
+```
+
+If that does not work, you can do it manually:
+
+```
+colcon build
+source install/setup.bash
+```
+
+6. Go nuts
 
 
 ## Day 2: Computer Vision

@@ -5,8 +5,8 @@
 |------------------|-----------------|--------------------------------------------------------------------|
 | [Day 1](#day-1-intro) | Intro           | Introduction to Robotics, Introduction to ROS2                            |
 | [Day 2](#day-2-computer-vision) | Computer Vision    | Computer Vision, Project  |
-| [Day 3-5](#day-3-workshop--project) | LiDAR           | LiDAR, Project  |
-| [Day 3-5](#day-4-5-workshop--project) | Workshop & Project           |  |
+| [Day 3](#day-3-workshop--project) | LiDAR           | LiDAR, Project  |
+| [Day 4-5](#day-4-5-workshop--project) | Workshop & Project           |  |
 
 
 **Planning:** [link](https://docs.google.com/spreadsheets/d/15HdELTIhPZTT3MXOrwgG9T98d1KogXK6/edit?usp=sharing&ouid=113903584216099729669&rtpof=true&sd=true)

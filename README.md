@@ -128,6 +128,10 @@ source install/setup.bash
 
 Project presentation: https://docs.google.com/presentation/d/1IvJ7ySwOn4rOBmr-oBQ5eRKsJNSuDHAO_sBHsyaPHCQ/edit?usp=sharing
 
+It's recommended to use a Miro board for your business idea (https://miro.com/) to collaborate easily.
+
+
+
 ---
 
 ## Troubleshooting

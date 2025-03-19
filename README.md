@@ -118,7 +118,8 @@ source install/setup.bash
 
 ## Day 3: LiDAR
 
-### OpenCV
+### LiDAR
+1. [02 - ROS: Laser rangefinders and ROS](https://docs.google.com/presentation/d/1lVROwUGEq5JXHAi1uMPHdtKstk3eu4JYRQoKi1fSxlE/edit?usp=sharing)
 
 
 ### Exercises

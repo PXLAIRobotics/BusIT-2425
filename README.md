@@ -145,7 +145,7 @@ Focus on visuals, i.e:
 * ...
 
 **Innovation path**
-* Use the AI Business model canvas as a starting point, but you can convert it into a presentation. Your choice.
+* Use the AI Business model canvas as a starting point, but you can convert it into a presentation. Your choice. Make it a __striking__ presentation!
 
 ### Additional info
 How to get an overview of all gazebo topics:

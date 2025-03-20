@@ -127,9 +127,25 @@ source install/setup.bash
 
 ## Day 4-5: Workshop & Project
 
-Project presentation: https://docs.google.com/presentation/d/1IvJ7ySwOn4rOBmr-oBQ5eRKsJNSuDHAO_sBHsyaPHCQ/edit?usp=sharing
+[Project info](https://docs.google.com/presentation/d/1IvJ7ySwOn4rOBmr-oBQ5eRKsJNSuDHAO_sBHsyaPHCQ/edit?usp=sharing)
 
 It's recommended to use a Miro board for your business idea (https://miro.com/) to collaborate easily.
+
+### Project presentation tips
+
+**Technology path**
+
+You can show code examples, but limit it to the most relevant sections, i.e.:
+* Usage of a canny edge detector
+* Contour detection
+
+Focus on visuals, i.e:
+* Screenshots or video of the results of computer vision transformations
+* Live demo of the car driving
+* ...
+
+**Innovation path**
+* Use the AI Business model canvas as a starting point, but you can convert it into a presentation. Your choice.
 
 ### Additional info
 How to get an overview of all gazebo topics:
